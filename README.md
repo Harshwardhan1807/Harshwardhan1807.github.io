@@ -1,0 +1,1 @@
+This desktop website fetches real-time weather data using a weather API, displaying the current weather and a 5-day forecast for any city. Users can search for cities to view temperature, wind speed, humidity, and weather icons. Built with HTML, CSS, and JavaScript, it provides a seamless user experience.
